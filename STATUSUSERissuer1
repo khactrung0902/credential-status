@@ -6,7 +6,7 @@
   ],
   "id": "https://khactrung0902.github.io/credential-status/STATUSUSERissuer1",
   "issuer": "did:key:z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM",
-  "issuanceDate": "2023-11-27T12:05:03.908Z",
+  "issuanceDate": "2023-11-27T12:06:16.086Z",
   "type": [
     "VerifiableCredential",
     "StatusList2021Credential"
@@ -22,6 +22,6 @@
     "created": "2019-12-11T03:50:55Z",
     "verificationMethod": "did:key:z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM#z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5njcEEPGabvSfKH661gZnPYEPt8wsSv6CXvP187W6zEELPEBk1gZzGkMdSR9Fkw4LrJU4fY1P1Wbxm1PNcUs8XBy"
+    "proofValue": "z5LHH7sabQtj2GpkLJysv9RUDMACJhLxbeWDeB6dQrm8vBcxhd9GFTPvCrpwxFxvWinyTyyxfd8SE6HsPnJd7yrbB"
   }
 }
