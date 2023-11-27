@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
+  "id": "https://khactrung0902.github.io/credential-status/STATUSUSERissuer1",
+  "issuer": "did:key:z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM",
+  "issuanceDate": "2023-11-27T12:05:03.908Z",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "credentialSubject": {
+    "id": "https://khactrung0902.github.io/credential-status/STATUSUSERissuer1#list",
+    "type": "StatusList2021",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "statusPurpose": "revocation"
+  },
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2019-12-11T03:50:55Z",
+    "verificationMethod": "did:key:z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM#z6Mko49VaLLXYarqfSqnjMdxmFdXVYvbBjUmhQYduKrwnNjM",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z5njcEEPGabvSfKH661gZnPYEPt8wsSv6CXvP187W6zEELPEBk1gZzGkMdSR9Fkw4LrJU4fY1P1Wbxm1PNcUs8XBy"
+  }
+}
